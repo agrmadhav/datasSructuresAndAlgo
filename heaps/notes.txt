@@ -1,0 +1,9 @@
+heap is a complete binary tree that comes with heap order property
+
+complete binary tree :
+all levels are completely filled except last level
+and nodes insert from left side
+
+maxheap: child node ki value hamesha parent se chotthi hongi 
+minheap: child hamesha parent se bde honge
+

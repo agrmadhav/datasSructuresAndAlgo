@@ -1,0 +1,9 @@
+dp is basically enhanced recursion
+recursion pehchanne ka treeka choice + decision
+dp tabhi aayegi jab ek saath do function call kr rhe ho recursion mai
+matlab overlapping ho rhi ho
+ek call mai kabhi dp nhi lgegi
+direct top down nhi lgana
+optimal cheeze poochi jaati hai sawaalon mai jyada kr
+
+sbse pehle recursive sloution bnalo uske baad memoization kro
